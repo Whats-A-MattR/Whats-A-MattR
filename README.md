@@ -5,10 +5,10 @@
 - 📫 How to reach me:
     - Email: Matthew.Russell@tensabyte.com.au
 - 📋 My Projects
-    - MonkBot - https://discordmonk.com/
-    A Discord Bot That Heals Randomly Selected Channels and their Members
-    Written in JavaScript with NodeJS
-    Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more.
+    - MonkBot - https://discordmonk.com/  
+    A Discord Bot That Heals Randomly Selected Channels and their Members  
+    Written in JavaScript with NodeJS  
+    Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more.  
     
 <!---
 Whats-A-MattR/Whats-A-MattR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
