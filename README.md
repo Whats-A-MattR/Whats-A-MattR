@@ -10,9 +10,9 @@
     Written in JavaScript with NodeJS  
     Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more
     - GitBounce - https://whats-a-mattr.github.io/git-bounce/  
-    A recreation of the old DVD Screensaver, using the GitHub logo, animated with Javascript
+    A recreation of the old DVD Screensaver, using the GitHub logo, animated with Vanilla Javascript
     - Neon Snake - https://whats-a-mattr.github.io/Neon-Snake/  
-    A JavaScript Snake Game with high scores (local only), music, and sound effects - and a menu to adjust them
+    A Vanilla JavaScript Snake Game with high scores (local only), music, and sound effects - and a menu to adjust them
     
     
 <!---
