@@ -8,11 +8,11 @@
     - MonkBot - https://discordmonk.com/  
     A Discord Bot That Heals Randomly Selected Channels and their Members  
     Written in JavaScript with NodeJS  
-    Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more.  
+    Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more
     - GitBounce - https://whats-a-mattr.github.io/git-bounce/  
     A recreation of the old DVD Screensaver, using the GitHub logo, animated with Javascript
     - Neon Snake - https://whats-a-mattr.github.io/Neon-Snake/  
-    A JavaScript Snake Game with high scores (local only), music, and sound effects - and a menu to adjust them. 
+    A JavaScript Snake Game with high scores (local only), music, and sound effects - and a menu to adjust them
     
     
 <!---
