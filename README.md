@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Whats-A-MattR, Systems Manager @ CodeBlue Australia, Business Owner @ [TensaByte](htt[s://tensabyte.au), Head of Product @ [BOREHOG](https://borehog.net/)
+- 👋 Hi, I’m @Whats-A-MattR, Systems Manager @ CodeBlue Australia, Business Owner @ [TensaByte](https://tensabyte.au), Head of Product @ [BOREHOG](https://borehog.net/)
 - 👀 I’m interested in far too many things for far too little to get good at them
 - 🌱 I’m currently learning JavaScript and it's many Libraries and Frameworks
 - 😎 I’m looking to collaborate on really anything I can
