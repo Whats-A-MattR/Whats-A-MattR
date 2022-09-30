@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Whats-A-MattR, Systems Manager @ CodeBlue Australia, Business Owner @ [TENSABYTE](https://tensabyte.com.au), Head of Product @ [BOREHOG](https://borehog.net/)
-- 👀 I’m interested in far too many things for far too little to get good at them
-- 🌱 I’m currently learning JavaScript and it's many Libraries and Frameworks
-- 😎 I’m looking to collaborate on really anything I can
+- 🌱 I’m currently developing JavaScript and it's many Libraries and Frameworks
+- 📜 PowerShell, JavaScript and Python Automation
+- 😎 I’m looking to collaborate on really anything I can, OpenSource all the things
 - 📫 How to reach me:
     - Email: Matthew.Russell@tensabyte.com.au
 - 📋 My Projects
