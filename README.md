@@ -6,7 +6,7 @@
     - Email: Matthew.Russell@tensabyte.com.au
 - 📋 My Projects
     
-    - VAC.watch - https://vac.watch.com/
+    - VAC.watch - https://vac.watch
     A multi-page webapp that allows users to track Steam Accounts and Notifies the user if/when a tracked account receives a ban.
     Fullstack project, written in JavaScript with NodeJS
     API backend via Express, using Sequelize + PostgreSQL for Data, NuxtJS + Bootstrap for frontend, Steam authentication strategy with Session/cookie implementation. 
