@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Whats-A-MattR, Business Owner @ [TENSABYTE](https://tensabyte.com.au), Head of Product @ [BOREHOG](https://borehog.net/), & Government Contractor
-- 🌱 I’m currently developing with JavaScript and it's many Libraries and Frameworks
-- 📜 PowerShell, JavaScript and Python Automation
+- 👋 Hi, I’m @Whats-A-MattR, Business Owner @ [TENSABYTE](https://tensabyte.com.au), Head of Product @ [BOREHOG](https://borehog.net/), & Senior Consultant @ [IdentityXP](https://identityxp.com)
+- 🌱 Building things with JavaScript, Go, Python, and PowerShell both professionally and for fun
+- 📜 Automation, Systems Integration, Full Stack Dev
 - 😎 I’m looking to collaborate on really anything I can, OpenSource all the things
 - 📫 How to reach me:
     - Email: Matthew.Russell@tensabyte.com.au
@@ -15,7 +15,8 @@
     An Electron Application that aims to restore ease to inviting lots of people to steam groups. Valve removed the bulk invite feature, so the best we can do now is automate the process in a way that still somewhat reflects a 'user' interaction. 
     This is achieved by randomly assigned timeouts between invites being sent. 
     
-    - MonkBot - https://discordmonk.com/  
+    - MonkBot - https://discordmonk.com/
+  ![]
     A Discord Bot That Heals Randomly Selected Channels and their Members  
     Written in JavaScript with NodeJS  
     Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more
