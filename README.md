@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Whats-A-MattR, Business Owner @ [TENSABYTE](https://tensabyte.com.au), Head of Product @ [BOREHOG](https://borehog.net/), & Senior Consultant @ [IdentityXP](https://identityxp.com)
+- 👋 Hi, I’m @Whats-A-MattR, Senior Consultant @ [IdentityXP](https://identityxp.com), Business Owner @ [TENSABYTE](https://tensabyte.com.au) & Head of Product @ [BOREHOG](https://borehog.net/)
 - 🌱 Building things with JavaScript, Go, Python, and PowerShell both professionally and for fun
 - 📜 Automation, Systems Integration, Full Stack Dev
 - 😎 I’m looking to collaborate on really anything I can, OpenSource all the things
