@@ -3,7 +3,7 @@
 - 📜 Automation, Systems Integration, Full Stack Dev
 - 😎 I’m looking to collaborate on really anything I can, OpenSource all the things
 - 📫 How to reach me:
-    - Email: Matthew.Russell@tensabyte.com.au
+    - Email: Matt@tensabyte.com
 - 📋 My Projects
     
     - VAC.watch - https://vac.watch
