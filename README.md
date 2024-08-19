@@ -16,7 +16,6 @@
     This is achieved by randomly assigned timeouts between invites being sent. 
     
     - MonkBot - https://discordmonk.com/
-  ![]
     A Discord Bot That Heals Randomly Selected Channels and their Members  
     Written in JavaScript with NodeJS  
     Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more
