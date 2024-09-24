@@ -25,6 +25,9 @@
     - Neon Snake - https://whats-a-mattr.github.io/Neon-Snake/   </br>
     A Vanilla JavaScript Snake Game with high scores (local only), music, and sound effects - and a menu to adjust them
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whats-A-MattR&layout=compact&theme=dracula)
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
     
