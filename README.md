@@ -37,17 +37,14 @@ Senior Consultant @ [IdentityXP](https://identityxp.com), Business Owner @ [TENS
 
 ### Projects 🔨
 
-[VAC.watch](https://vac.watch)
-A multi-page webapp that allows users to track Steam Accounts and Notifies the user if/when a tracked account receives a ban.
+[VAC.watch](https://vac.watch) - A multi-page webapp that allows users to track Steam Accounts and Notifies the user if/when a tracked account receives a ban.
 Fullstack project, written in JavaScript with NodeJS
 API backend via Express, using Sequelize + PostgreSQL for Data, NuxtJS + Bootstrap for frontend, Steam authentication strategy with Session/cookie implementation. 
     
-[SteamInviter ](https://steaminviter.scriptedadventures.net/) </br>
-An Electron Application that aims to restore ease to inviting lots of people to steam groups. Valve removed the bulk invite feature, so the best we can do now is automate the process in a way that still somewhat reflects a 'user' interaction. 
+[SteamInviter ](https://steaminviter.scriptedadventures.net/) - An Electron Application that aims to restore ease to inviting lots of people to steam groups. Valve removed the bulk invite feature, so the best we can do now is automate the process in a way that still somewhat reflects a 'user' interaction. 
 This is achieved by randomly assigned timeouts between invites being sent. 
     
-[Monkbot](https://discordmonk.com) </br>
-A Discord Bot That Heals Randomly Selected Channels and their Members  
+[Monkbot](https://discordmonk.com) - A Discord Bot That Heals Randomly Selected Channels and their Members  
 Written in JavaScript with NodeJS  
 Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more
 
