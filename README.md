@@ -29,6 +29,11 @@
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whats-A-MattR&layout=compact&theme=dracula)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2368000145) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2345111032) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🎉 Merged PR [#1](https://github.com/Whats-A-MattR/next-auth/pull/1) in [Whats-A-MattR/next-auth](https://github.com/Whats-A-MattR/next-auth)
+4. 🗣 Commented on [#1](https://github.com/Whats-A-MattR/next-auth/pull/1#issuecomment-2336556780) in [Whats-A-MattR/next-auth](https://github.com/Whats-A-MattR/next-auth)
+5. 💪 Opened PR [#1](https://github.com/Whats-A-MattR/next-auth/pull/1) in [Whats-A-MattR/next-auth](https://github.com/Whats-A-MattR/next-auth)
 <!--END_SECTION:activity-->
     
 <!---
