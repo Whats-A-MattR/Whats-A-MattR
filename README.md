@@ -24,7 +24,9 @@
     A recreation of the old DVD Screensaver, using the GitHub logo, animated with Vanilla Javascript
     - Neon Snake - https://whats-a-mattr.github.io/Neon-Snake/   </br>
     A Vanilla JavaScript Snake Game with high scores (local only), music, and sound effects - and a menu to adjust them
-    
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
     
 <!---
 Whats-A-MattR/Whats-A-MattR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
