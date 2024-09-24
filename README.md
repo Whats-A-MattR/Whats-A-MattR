@@ -1,33 +1,32 @@
-- 👋 Hi, I’m @Whats-A-MattR, Senior Consultant @ [IdentityXP](https://identityxp.com), Business Owner @ [TENSABYTE](https://tensabyte.com.au) & Head of Product @ [BOREHOG](https://borehog.net/)
-- 🌱 Building things with JavaScript, Go, Python, and PowerShell both professionally and for fun
-- 📜 Automation, Systems Integration, Full Stack Dev
-- 😎 I’m looking to collaborate on really anything I can, OpenSource all the things
-- 📫 How to reach me:
-    - Email: Matt@tensabyte.com
-- 📋 My Projects
-    
-    - VAC.watch - https://vac.watch </br>
-    A multi-page webapp that allows users to track Steam Accounts and Notifies the user if/when a tracked account receives a ban.
-    Fullstack project, written in JavaScript with NodeJS
-    API backend via Express, using Sequelize + PostgreSQL for Data, NuxtJS + Bootstrap for frontend, Steam authentication strategy with Session/cookie implementation. 
-    
-    - SteamInviter - https://steaminviter.scriptedadventures.net/ </br>
-    An Electron Application that aims to restore ease to inviting lots of people to steam groups. Valve removed the bulk invite feature, so the best we can do now is automate the process in a way that still somewhat reflects a 'user' interaction. 
-    This is achieved by randomly assigned timeouts between invites being sent. 
-    
-    - MonkBot - https://discordmonk.com/ </br>
-    A Discord Bot That Heals Randomly Selected Channels and their Members  
-    Written in JavaScript with NodeJS  
-    Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more
-    
-    - GitBounce - https://whats-a-mattr.github.io/git-bounce/   </br>
-    A recreation of the old DVD Screensaver, using the GitHub logo, animated with Vanilla Javascript
-    - Neon Snake - https://whats-a-mattr.github.io/Neon-Snake/   </br>
-    A Vanilla JavaScript Snake Game with high scores (local only), music, and sound effects - and a menu to adjust them
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+🗣️🖕🏼 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whats-A-MattR&layout=compact&theme=dracula)
+Senior Consultant @ [IdentityXP](https://identityxp.com), Business Owner @ [TENSABYTE](https://tensabyte.com.au) & Head of Product @ [BOREHOG](https://borehog.net/)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whats-a-mattr/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MattasaurusRuss)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whats-A-MattR&layout=compact&theme=dracula)
+
+### Recent Activity ⚡️
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2368000145) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 2. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2345111032) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
@@ -35,6 +34,25 @@
 4. 🗣 Commented on [#1](https://github.com/Whats-A-MattR/next-auth/pull/1#issuecomment-2336556780) in [Whats-A-MattR/next-auth](https://github.com/Whats-A-MattR/next-auth)
 5. 💪 Opened PR [#1](https://github.com/Whats-A-MattR/next-auth/pull/1) in [Whats-A-MattR/next-auth](https://github.com/Whats-A-MattR/next-auth)
 <!--END_SECTION:activity-->
+
+### Projects 🔨
+
+[VAC.watch](https://vac.watch)
+A multi-page webapp that allows users to track Steam Accounts and Notifies the user if/when a tracked account receives a ban.
+Fullstack project, written in JavaScript with NodeJS
+API backend via Express, using Sequelize + PostgreSQL for Data, NuxtJS + Bootstrap for frontend, Steam authentication strategy with Session/cookie implementation. 
+    
+[SteamInviter ](https://steaminviter.scriptedadventures.net/) </br>
+An Electron Application that aims to restore ease to inviting lots of people to steam groups. Valve removed the bulk invite feature, so the best we can do now is automate the process in a way that still somewhat reflects a 'user' interaction. 
+This is achieved by randomly assigned timeouts between invites being sent. 
+    
+[Monkbot](https://discordmonk.com) </br>
+A Discord Bot That Heals Randomly Selected Channels and their Members  
+Written in JavaScript with NodeJS  
+Utilising Express, EJS, Mongoose/MongoDB and libraries for Discord including Discord.js and more
+
+
+
     
 <!---
 Whats-A-MattR/Whats-A-MattR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
