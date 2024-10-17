@@ -37,11 +37,11 @@ Senior Consultant @ [IdentityXP](https://identityxp.com), Business Owner @ [TENS
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7691](https://github.com/Azure/azure-functions-ux/pull/7691#issuecomment-2413635846) in [Azure/azure-functions-ux](https://github.com/Azure/azure-functions-ux)
-2. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2410182729) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2395873521) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2392694639) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2368000145) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#7691](https://github.com/Azure/azure-functions-ux/pull/7691#issuecomment-2417989296) in [Azure/azure-functions-ux](https://github.com/Azure/azure-functions-ux)
+2. 🗣 Commented on [#7691](https://github.com/Azure/azure-functions-ux/pull/7691#issuecomment-2413635846) in [Azure/azure-functions-ux](https://github.com/Azure/azure-functions-ux)
+3. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2410182729) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2395873521) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2392694639) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
 
 ### Projects 🔨
