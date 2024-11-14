@@ -29,8 +29,8 @@
 Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Business Owner @ [TENSABYTE](https://tensabyte.com.au) & Head of Product @ [BOREHOG](https://borehog.net/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whats-a-mattr/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MattasaurusRuss)
 [![Bluesky](https://img.shields.io/badge/BlueSky-darkblue?style=for-the-badge&logoColor=white&logo=bluesky)](https://bsky.app/profile/whatsamattr.dev)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MattasaurusRuss)
 
 
 
