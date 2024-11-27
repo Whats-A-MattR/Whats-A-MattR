@@ -38,11 +38,11 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Business Owner 
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2442971807) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2440559606) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#451](https://github.com/supabase/auth/issues/451#issuecomment-2425685384) in [supabase/auth](https://github.com/supabase/auth)
-4. 🗣 Commented on [#451](https://github.com/supabase/auth/issues/451#issuecomment-2425576068) in [supabase/auth](https://github.com/supabase/auth)
-5. 🗣 Commented on [#451](https://github.com/supabase/auth/issues/451#issuecomment-2425546374) in [supabase/auth](https://github.com/supabase/auth)
+1. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2503864477) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2442971807) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2440559606) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#451](https://github.com/supabase/auth/issues/451#issuecomment-2425685384) in [supabase/auth](https://github.com/supabase/auth)
+5. 🗣 Commented on [#451](https://github.com/supabase/auth/issues/451#issuecomment-2425576068) in [supabase/auth](https://github.com/supabase/auth)
 <!--END_SECTION:activity-->
 
 ### Projects 🔨
