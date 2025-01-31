@@ -38,7 +38,7 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Business Owner 
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7691](https://github.com/Azure/azure-functions-ux/pull/7691#issuecomment-2529789701) in [Azure/azure-functions-ux](https://github.com/Azure/azure-functions-ux)
+1. ❗ Opened issue [#6524](https://github.com/shadcn-ui/ui/issues/6524) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 2. 🗣 Commented on [#7691](https://github.com/Azure/azure-functions-ux/pull/7691#issuecomment-2513498109) in [Azure/azure-functions-ux](https://github.com/Azure/azure-functions-ux)
 3. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2503864477) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 4. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2442971807) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
