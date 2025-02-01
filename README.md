@@ -38,9 +38,9 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Business Owner 
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6525](https://github.com/shadcn-ui/ui/pull/6525) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. ❗ Opened issue [#6524](https://github.com/shadcn-ui/ui/issues/6524) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2503864477) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#3475](https://github.com/shadcn-ui/ui/pull/3475#issuecomment-2628988265) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 💪 Opened PR [#6525](https://github.com/shadcn-ui/ui/pull/6525) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. ❗ Opened issue [#6524](https://github.com/shadcn-ui/ui/issues/6524) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 4. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2442971807) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 5. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2440559606) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
