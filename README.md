@@ -47,9 +47,12 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Business Owner 
 
 ### Projects 🔨
 
-[VAC.watch](https://vac.watch) - A multi-page webapp that allows users to track Steam Accounts and Notifies the user if/when a tracked account receives a ban.
-Fullstack project, written in JavaScript with NodeJS
-API backend via Express, using Sequelize + PostgreSQL for Data, NuxtJS + Bootstrap for frontend, Steam authentication strategy with Session/cookie implementation. 
+[NO💩QR](https://nobsqr.com) - A webapp for creating QR Codes, operating on a fremium model, where paid members are able to create trackable codes, where interactions are tracked by encoding a proxied URL. 
+Deployed on Cloudflare, using Astro + React + AlpineJS on Cloudflare Pages, Workers, Queues, D1, and other CF featuers. 
+
+[VAC.watch](https://vac.watch) - Currently being rewritten. Required adding functionality to Better-Auth to implemnt Faceit and Steam authentication
+* [PR submitted to Better-Auth ](https://github.com/better-auth/better-auth/pull/3140)
+* [Gist demonstrating implementing Steam Auth in Better-Auth](https://gist.github.com/Whats-A-MattR/5bce5574e568e8d8e6be55cf692df3a1)
     
 [SteamInviter ](https://steaminviter.scriptedadventures.net/) - An Electron Application that aims to restore ease to inviting lots of people to steam groups. Valve removed the bulk invite feature, so the best we can do now is automate the process in a way that still somewhat reflects a 'user' interaction. 
 This is achieved by randomly assigned timeouts between invites being sent. 
