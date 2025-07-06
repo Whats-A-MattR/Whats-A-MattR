@@ -38,11 +38,11 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Business Owner 
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3277](https://github.com/better-auth/better-auth/pull/3277) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. ❗ Opened issue [#3276](https://github.com/better-auth/better-auth/issues/3276) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 🗣 Commented on [#6187](https://github.com/shadcn-ui/ui/issues/6187#issuecomment-3034756233) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. 🗣 Commented on [#3196](https://github.com/better-auth/better-auth/pull/3196#issuecomment-3023845694) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🗣 Commented on [#3196](https://github.com/better-auth/better-auth/pull/3196#issuecomment-3018920835) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🗣 Commented on [#3277](https://github.com/better-auth/better-auth/pull/3277#issuecomment-3041231781) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 💪 Opened PR [#3277](https://github.com/better-auth/better-auth/pull/3277) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. ❗ Opened issue [#3276](https://github.com/better-auth/better-auth/issues/3276) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 🗣 Commented on [#6187](https://github.com/shadcn-ui/ui/issues/6187#issuecomment-3034756233) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+5. 🗣 Commented on [#3196](https://github.com/better-auth/better-auth/pull/3196#issuecomment-3023845694) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 ### Projects 🔨
