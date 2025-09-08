@@ -38,7 +38,7 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Direct
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3277](https://github.com/better-auth/better-auth/pull/3277#issuecomment-3041272985) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🗣 Commented on [#3432](https://github.com/better-auth/better-auth/pull/3432#issuecomment-3238809980) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 2. 🗣 Commented on [#3277](https://github.com/better-auth/better-auth/pull/3277#issuecomment-3041231781) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 3. 💪 Opened PR [#3277](https://github.com/better-auth/better-auth/pull/3277) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 4. ❗ Opened issue [#3276](https://github.com/better-auth/better-auth/issues/3276) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
