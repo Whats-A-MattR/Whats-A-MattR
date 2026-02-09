@@ -34,8 +34,6 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Direct
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whats-A-MattR&layout=compact&theme=dracula)
-
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3432](https://github.com/better-auth/better-auth/pull/3432#issuecomment-3238809980) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
