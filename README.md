@@ -26,7 +26,7 @@
 🗣️🖕🏼 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
-Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Director @ [TENSABYTE](https://tensabyte.com.au) & Head of Product @ [BOREHOG](https://borehog.net/)
+Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Director @ [TENSABYTE](https://tensabyte.com.au) 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whats-a-mattr/)
 [![Bluesky](https://img.shields.io/badge/BlueSky-darkblue?style=for-the-badge&logoColor=white&logo=bluesky)](https://bsky.app/profile/whatsamattr.dev)
