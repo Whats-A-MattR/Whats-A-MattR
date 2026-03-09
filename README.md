@@ -45,6 +45,13 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Direct
 
 ### Projects 🔨
 
+[Speedarr](https://github.com/Whats-A-MattR/speedarr) - FOSS Speed and public IP monitoring. Currently integrates with Gluetun to monitor VPN connectivity, more integrations otw.
+Runs in docker, runs in two modes, Complete and Node. Complete runs the dashboard and a node. Nodes can be adopted by dashboards. 
+Useful for monitoring different docker subnets. 
+Future enhancements: speed responsive rate limiting for download clients. Pausing downloading and seeding when VPN status is offline.
+Open an issue to submit a feature request.
+
+
 [NO💩QR](https://nobsqr.com) - A webapp for creating QR Codes, operating on a fremium model, where paid members are able to create trackable codes, where interactions are tracked by encoding a proxied URL. 
 Deployed on Cloudflare, using Astro + React + AlpineJS on Cloudflare Pages, Workers, Queues, D1, and other CF featuers. 
 
