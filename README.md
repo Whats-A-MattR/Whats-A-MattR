@@ -45,6 +45,8 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Direct
 
 ### Projects 🔨
 
+[Solum](https://getsolum.app) - Private, offline compound tracker. Configure protocols, run cycles, setup reconstitution recipes, and keep your data on your device. 
+
 [Speedarr](https://github.com/Whats-A-MattR/speedarr) - FOSS Speed and public IP monitoring. Currently integrates with Gluetun to monitor VPN connectivity, more integrations otw.
 Runs in docker, runs in two modes, Complete and Node. Complete runs the dashboard and a node. Nodes can be adopted by dashboards. 
 Useful for monitoring different docker subnets. 
