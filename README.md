@@ -36,11 +36,11 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Direct
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3432](https://github.com/better-auth/better-auth/pull/3432#issuecomment-3238809980) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 🗣 Commented on [#3277](https://github.com/better-auth/better-auth/pull/3277#issuecomment-3041231781) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 💪 Opened PR [#3277](https://github.com/better-auth/better-auth/pull/3277) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. ❗ Opened issue [#3276](https://github.com/better-auth/better-auth/issues/3276) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🗣 Commented on [#6187](https://github.com/shadcn-ui/ui/issues/6187#issuecomment-3034756233) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. 🎉 Merged PR [#1](https://github.com/Whats-A-MattR/Whats-A-MattR/pull/1) in [Whats-A-MattR/Whats-A-MattR](https://github.com/Whats-A-MattR/Whats-A-MattR)
+2. 💪 Opened PR [#1](https://github.com/Whats-A-MattR/Whats-A-MattR/pull/1) in [Whats-A-MattR/Whats-A-MattR](https://github.com/Whats-A-MattR/Whats-A-MattR)
+3. 🔒 Closed issue [#10](https://github.com/Whats-A-MattR/loops-go-sdk/issues/10) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
+4. 🗣 Commented on [#11](https://github.com/Whats-A-MattR/loops-go-sdk/pull/11#issuecomment-4538601839) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
+5. ℹ️ Assigned issue [#10](https://github.com/Whats-A-MattR/loops-go-sdk/issues/10) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
 <!--END_SECTION:activity-->
 
 ### Projects 🔨
