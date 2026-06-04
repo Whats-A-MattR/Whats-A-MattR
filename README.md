@@ -36,11 +36,11 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Direct
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/Whats-A-MattR/loops-go-sdk/issues/16) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
-2. 🗣 Commented on [#17](https://github.com/Whats-A-MattR/loops-go-sdk/pull/17#issuecomment-4618043897) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
-3. 🗣 Commented on [#17](https://github.com/Whats-A-MattR/loops-go-sdk/pull/17#issuecomment-4608242037) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
-4. ℹ️ Assigned issue [#16](https://github.com/Whats-A-MattR/loops-go-sdk/issues/16) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
-5. ℹ️ Assigned issue [#16](https://github.com/Whats-A-MattR/loops-go-sdk/issues/16) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
+1. 🎉 Merged PR [#20](https://github.com/Whats-A-MattR/loops-go-sdk/pull/20) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
+2. 💪 Opened PR [#20](https://github.com/Whats-A-MattR/loops-go-sdk/pull/20) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
+3. 🔒 Closed issue [#18](https://github.com/Whats-A-MattR/loops-go-sdk/issues/18) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
+4. 🗣 Commented on [#19](https://github.com/Whats-A-MattR/loops-go-sdk/pull/19#issuecomment-4619430924) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
+5. ℹ️ Assigned issue [#18](https://github.com/Whats-A-MattR/loops-go-sdk/issues/18) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
 <!--END_SECTION:activity-->
 
 ### Projects 🔨
