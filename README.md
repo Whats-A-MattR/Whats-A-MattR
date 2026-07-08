@@ -36,8 +36,8 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Direct
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/guapocado/guapocado/pull/1) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
-2. 🎉 Merged PR [#20](https://github.com/Whats-A-MattR/loops-go-sdk/pull/20) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
+1. 💪 Opened PR [#2](https://github.com/guapocado/guapocado/pull/2) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
+2. 💪 Opened PR [#1](https://github.com/guapocado/guapocado/pull/1) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
 3. 💪 Opened PR [#20](https://github.com/Whats-A-MattR/loops-go-sdk/pull/20) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
 4. 🔒 Closed issue [#18](https://github.com/Whats-A-MattR/loops-go-sdk/issues/18) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
 5. 🗣 Commented on [#19](https://github.com/Whats-A-MattR/loops-go-sdk/pull/19#issuecomment-4619430924) in [Whats-A-MattR/loops-go-sdk](https://github.com/Whats-A-MattR/loops-go-sdk)
