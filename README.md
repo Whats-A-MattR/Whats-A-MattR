@@ -39,8 +39,8 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Direct
 1. 🗣 Commented on [#5](https://github.com/guapocado/guapocado/issues/5#issuecomment-4987850282) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
 2. 💪 Opened PR [#6](https://github.com/guapocado/guapocado/pull/6) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
 3. 🗣 Commented on [#5](https://github.com/guapocado/guapocado/issues/5#issuecomment-4987761579) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
-4. ℹ️ Labeled issue [#5](https://github.com/guapocado/guapocado/issues/5) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
-5. ❗ Opened issue [#5](https://github.com/guapocado/guapocado/issues/5) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
+4. ❗ Opened issue [#5](https://github.com/guapocado/guapocado/issues/5) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
+5. 🎉 Merged PR [#4](https://github.com/guapocado/guapocado/pull/4) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
 <!--END_SECTION:activity-->
 
 ### Projects 🔨
