@@ -36,11 +36,11 @@ Senior Identity Engineer @ [IdentityXP](https://identityxp.com), Founding Direct
 
 ### Recent Activity ⚡️
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/guapocado/guapocado/issues/7) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
-2. 🗣 Commented on [#5](https://github.com/guapocado/guapocado/issues/5#issuecomment-4987850282) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
-3. 💪 Opened PR [#6](https://github.com/guapocado/guapocado/pull/6) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
-4. 🗣 Commented on [#5](https://github.com/guapocado/guapocado/issues/5#issuecomment-4987761579) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
-5. ❗ Opened issue [#5](https://github.com/guapocado/guapocado/issues/5) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
+1. 🗣 Commented on [#7](https://github.com/guapocado/guapocado/issues/7#issuecomment-5089784996) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
+2. 🎉 Merged PR [#8](https://github.com/guapocado/guapocado/pull/8) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
+3. 🔒 Closed issue [#7](https://github.com/guapocado/guapocado/issues/7) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
+4. 💪 Opened PR [#8](https://github.com/guapocado/guapocado/pull/8) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
+5. ❗ Opened issue [#7](https://github.com/guapocado/guapocado/issues/7) in [guapocado/guapocado](https://github.com/guapocado/guapocado)
 <!--END_SECTION:activity-->
 
 ### Projects 🔨
